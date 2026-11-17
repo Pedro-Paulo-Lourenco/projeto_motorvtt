@@ -1,4 +1,4 @@
-import{N as e,R as t,W as n,n as r,r as i,u as a}from"./Geometry-f4BP105-.js";import{s as o}from"./RenderTargetSystem-BNfpo5CX.js";import{p as s}from"./GCManagedHash-D8_8mOsL.js";var c={name:`local-uniform-bit`,vertex:{header:`
+import{N as e,R as t,W as n,n as r,r as i,u as a}from"./Geometry-C3VDdUIN.js";import{s as o}from"./RenderTargetSystem-DOxE5q6D.js";import{p as s}from"./GCManagedHash-Bv_vFwsh.js";var c={name:`local-uniform-bit`,vertex:{header:`
 
             struct LocalUniforms {
                 uTransformMatrix:mat3x3<f32>,
